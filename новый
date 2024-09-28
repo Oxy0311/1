@@ -2,10 +2,16 @@
 <html>
     <head>
 <meta charset="UTF-8">
-<title>новый файл</title>
+<title>САЙТ1</title>
         
     </head>
     <body>
+<h1>ЗАГОЛОВОК</h1>
+<p>Единственный человек, который не делает ошибок, — это тот человек, который ничего не делает.</p>
+<img src="images/1.gif"
+width="100"
+height="100">
+<button>КНОПКА</button>
 
     </body>
 </html>
