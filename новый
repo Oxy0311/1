@@ -6,6 +6,9 @@
 
 
 <style>
+a:hover{
+background:green;
+color:pink;}
     
 table, td, th {
   
@@ -25,6 +28,10 @@ table {
     </head>
     <body>
 <h1>ЗАГОЛОВОК</h1>
+<div style="background-color:gold; height:200px; width:300px; font-size:20pt;">
+<p> text </p>
+<a href="http://adamas.ru">ADAMAS</a>
+</div>
 <p>Единственный человек, который не делает ошибок, — это тот человек, который ничего не делает.</p>
 <img src="images/1.gif"
 width="100"
